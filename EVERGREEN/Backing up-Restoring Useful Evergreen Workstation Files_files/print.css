@@ -1,0 +1,81 @@
+body {
+	margin: 1em; font-family: sans-serif; background-color: rgb(255, 255, 255);
+}
+th {
+	text-align: left; color: rgb(0, 0, 102); border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+tr.odd {
+	background-color: rgb(221, 221, 221);
+}
+tr.even {
+	background-color: rgb(255, 255, 255);
+}
+td {
+	padding: 5px;
+}
+#menu {
+	visibility: hidden;
+}
+#main {
+	margin: 1em;
+}
+a:link {
+	color: rgb(0, 0, 0);
+}
+a:visited {
+	color: rgb(0, 0, 0);
+}
+a:hover {
+	color: rgb(0, 0, 255);
+}
+a:link img {
+	border: 0px currentColor;
+}
+a:visited img {
+	border: 0px currentColor;
+}
+.print-footnote {
+	font-size: xx-small;
+}
+img.print-logo {
+	border: 0px currentColor;
+}
+.print-site_name {
+	
+}
+.print-breadcrumb {
+	font-size: x-small;
+}
+.print-title {
+	
+}
+.print-submitted {
+	font-size: small;
+}
+.print-created {
+	font-size: small;
+}
+.print-taxonomy {
+	text-align: right;
+}
+.print-taxonomy li {
+	display: inline;
+}
+.print-content {
+	
+}
+.print-hr {
+	border: 0px currentColor; width: 100%; height: 1px; color: rgb(158, 158, 158); background-color: rgb(158, 158, 158);
+}
+.print-message {
+	padding: 1em; border: dotted blue;
+}
+.print-source_url {
+	font-size: small;
+}
+.print-links {
+	font-size: small;
+}
+.print-footer {
+	text-align: center;
+}

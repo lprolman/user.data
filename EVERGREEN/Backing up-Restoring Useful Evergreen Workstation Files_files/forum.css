@@ -1,0 +1,48 @@
+#forum .description {
+	margin: 0.5em; font-size: 0.9em;
+}
+#forum td.created {
+	white-space: nowrap;
+}
+#forum td.posts {
+	white-space: nowrap;
+}
+#forum td.topics {
+	white-space: nowrap;
+}
+#forum td.last-reply {
+	white-space: nowrap;
+}
+#forum td.replies {
+	white-space: nowrap;
+}
+#forum td.pager {
+	white-space: nowrap;
+}
+#forum td.forum .icon {
+	margin: 0px 9px 0px 0px; width: 24px; height: 24px; float: left; background-image: url("../../misc/forum-icons.png"); background-repeat: no-repeat;
+}
+#forum td.forum .forum-status-new {
+	background-position: -24px 0px;
+}
+#forum div.indent {
+	margin-left: 20px;
+}
+#forum .icon div {
+	width: 24px; height: 24px; background-image: url("../../misc/forum-icons.png"); background-repeat: no-repeat;
+}
+#forum .icon .topic-status-new {
+	background-position: -24px 0px;
+}
+#forum .icon .topic-status-hot {
+	background-position: -48px 0px;
+}
+#forum .icon .topic-status-hot-new {
+	background-position: -72px 0px;
+}
+#forum .icon .topic-status-sticky {
+	background-position: -96px 0px;
+}
+#forum .icon .topic-status-closed {
+	background-position: -120px 0px;
+}

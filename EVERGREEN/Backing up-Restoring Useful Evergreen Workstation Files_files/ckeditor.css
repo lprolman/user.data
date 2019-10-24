@@ -1,0 +1,111 @@
+.rteindent1 {
+	margin-left: 40px;
+}
+.rteindent2 {
+	margin-left: 80px;
+}
+.rteindent3 {
+	margin-left: 120px;
+}
+.rteindent4 {
+	margin-left: 160px;
+}
+.rteleft {
+	text-align: left;
+}
+.rteright {
+	text-align: right;
+}
+.rtecenter {
+	text-align: center;
+}
+.rtejustify {
+	text-align: justify;
+}
+.ibimage_left {
+	float: left;
+}
+.ibimage_right {
+	float: right;
+}
+table.cke_editor fieldset {
+	padding: 0px !important;
+}
+.cke_editor {
+	display: table !important;
+}
+.cke_editor {
+	display: inline-table !important;
+}
+#ie {
+	display: inline-table !important;
+}
+.cke_dialog tr td:last-child {
+	border-right-color: currentColor; border-right-width: 0px; border-right-style: none;
+}
+form#ckeditor-admin-profile-form textarea#edit-toolbar {
+	display: none;
+}
+form#ckeditor-admin-profile-form #edit-toolbar + .grippie {
+	display: none;
+}
+div.sortableList {
+	cursor: n-resize;
+}
+div.widthMarker {
+	margin: 10px 0px 0px 1px; height: 20px; text-align: center; padding-left: 1px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: dashed;
+}
+div.group.sortableList {
+	margin: 20px 0px 0px;
+}
+div.sortableList div.sortableListDiv {
+	width: 900px; height: 30px; margin-bottom: 3px;
+}
+div.sortableList div.sortableListDiv span.sortableListSpan {
+	height: 30px; border-right-color: rgb(204, 204, 204); border-right-width: 1px; border-right-style: dashed; display: block; background-color: rgb(240, 240, 238);
+}
+div.sortableList div.sortableListDiv span.sortableListSpan ul {
+	list-style: none; margin: 0px; padding: 0px 0px 0px 1px; border: 1px solid rgb(204, 204, 204); width: 900px; height: 30px; white-space: nowrap;
+}
+div.sortableList div.sortableListDiv span.sortableListSpan ul li {
+	list-style: none; padding: 2px; height: 18px; cursor: move; min-width: 18px;
+}
+div.sortableList div.sortableListDiv span.sortableListSpan ul li.group {
+	padding-left: 2px; min-width: 5px;
+}
+div.sortableList div.sortableListDiv span.sortableListSpan ul li img {
+	margin: 0px; padding: 0px; border: 0px currentColor;
+}
+li.sortableItem {
+	margin: 3px 1px 1px 0px; border: 1px solid rgb(204, 204, 204); float: left; position: relative; z-index: 99; background-color: rgb(240, 240, 238);
+}
+#security-filters .filter-text-formats {
+	padding: 10px 0px; width: 15%; clear: both; font-size: 11px; font-weight: bold; float: left;
+}
+#security-filters .filter-text-formats .filter-text-format-status {
+	padding-right: 20px; float: left;
+}
+#security-filters .filter-text-formats .enabled {
+	background: url("images/tick.png") no-repeat right;
+}
+#security-filters .filter-text-formats .disabled {
+	background: url("images/delete.png") no-repeat right;
+}
+#security-filters .filter-info {
+	width: 85%; float: left;
+}
+#security-filters .fieldset-legend {
+	padding-left: 10px;
+}
+#security-filters .fieldset-legend a {
+	padding-left: 5px; font-size: 10px; font-weight: normal;
+}
+#security-filters .filter-wrapper {
+	width: 100%; clear: both; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+fieldset#edit-appearance div#groupLayout {
+	margin: 1em 0px; padding: 0px; border: 0px currentColor; overflow: auto;
+}
+div#allButtons {
+	margin: 1em 0px; padding: 0px; border: 0px currentColor; overflow: auto;
+}

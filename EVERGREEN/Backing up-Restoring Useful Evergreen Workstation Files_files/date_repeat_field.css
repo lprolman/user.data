@@ -1,0 +1,96 @@
+.date-repeat-input {
+	width: auto; margin-right: 5px; float: left;
+}
+.date-repeat-input select {
+	min-width: 7em;
+}
+.date-repeat fieldset {
+	clear: both; float: none;
+}
+.date-repeat-radios {
+	margin-bottom: 1em;
+}
+.date-repeat-radios input[type=radio] {
+	margin: 0.75em 0.75em 0px 0px; float: left;
+}
+.date-repeat-radios .form-wrapper {
+	float: left;
+}
+.date-repeat-radios .form-type-checkboxes .form-type-checkbox {
+	margin: 0px; width: 15%; float: left;
+}
+.date-repeat-radios .date-repeat-radios-item {
+	margin-bottom: 1em;
+}
+.weekly .form-type-checkboxes .form-type-checkbox {
+	margin-right: 10px; float: left;
+}
+.byday-count.date-repeat-input label {
+	display: inline;
+}
+.byday-count.date-repeat-input select {
+	display: inline;
+}
+.bymonthday.date-clear label {
+	display: inline;
+}
+.bymonthday.date-clear select {
+	display: inline;
+}
+.byday-day.date-repeat-input label {
+	font-weight: bold;
+}
+.bymonthday.date-clear .field-suffix {
+	font-weight: bold;
+}
+.range-of-repeat .form-radios > div {
+	margin-top: 0.5em;
+}
+.range-of-repeat .count input[type=text] {
+	margin: 0px 0.5em;
+}
+.range-of-repeat .until .form-wrapper {
+	margin: 0px 0.5em; vertical-align: middle; display: inline-block;
+}
+.range-of-repeat .until .form-radio {
+	margin: 0px 0px 1.4em; vertical-align: middle;
+}
+.range-of-repeat .until .date-prefix-inline {
+	margin: 0px 0px 1.4em; vertical-align: middle;
+}
+.range-of-repeat .label-above.widget-date_popup.until .form-radio {
+	margin: 0px; vertical-align: middle;
+}
+.range-of-repeat .label-above.widget-date_popup.until .date-prefix-inline {
+	margin: 0px; vertical-align: middle;
+}
+.range-of-repeat .label-within.widget-date_select.until .form-radio {
+	margin: 0px; vertical-align: middle;
+}
+.range-of-repeat .label-within.widget-date_select.until .date-prefix-inline {
+	margin: 0px; vertical-align: middle;
+}
+.range-of-repeat .label-above.widget-date_select.until .form-radio {
+	margin: 1.4em 0px 0px; vertical-align: middle;
+}
+.range-of-repeat .label-above.widget-date_select.until .date-prefix-inline {
+	margin: 1.4em 0px 0px; vertical-align: middle;
+}
+.range-of-repeat .until .form-type-date-text .date-padding {
+	padding: 0px;
+}
+.range-of-repeat .label-within.widget-date_select.until .date-padding {
+	padding: 0px;
+}
+.range-of-repeat .label-above.widget-date_select.until .date-padding {
+	padding: 0px;
+}
+.range-of-repeat .until .form-type-date-select {
+	margin: 0px; border: currentColor;
+}
+.range-of-repeat .until .form-type-date-popup {
+	margin: 0px; border: currentColor;
+}
+.range-of-repeat .until .form-type-date-text {
+	margin: 0px; border: currentColor;
+}
